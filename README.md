@@ -1,11 +1,10 @@
-🚀 Computer Vision & Deep Learning Setup Scripts
+# 🚀 Computer Vision & Deep Learning Setup Scripts
 
 One-click setup scripts for Computer Vision and Deep Learning environments.
 
 These scripts automatically install the most commonly used libraries and tools for AI, Machine Learning, Deep Learning, and Computer Vision projects on Windows and Linux/macOS.
 
 # 📦 Included Libraries
-
 ## Core Libraries
 * NumPy
 * Pandas
@@ -49,14 +48,12 @@ These scripts automatically install the most commonly used libraries and tools f
 * imutils
 * requests
 
-🖥️ Windows Installation
-
+# 🖥️ Windows Installation
 Run the batch file:
 install_cv_dl.bat
 
 # 🐧 Linux/macOS Installation
 Make the script executable:
-
 chmod +x install_cv_dl.sh
 
 Run the script:
@@ -74,9 +71,7 @@ This repository is useful for:
 * AI Engineers
 * Computer Vision Developers
 * Deep Learning Practitioners
-
----
-
+  
 # ⭐ Features
 
 ✅ One-click installation
